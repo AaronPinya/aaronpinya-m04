@@ -9,23 +9,20 @@
 .header{
     grid-area:header;
     background-color: #1E90FF;
-    height: 25%;
 }
 
 .main{
     grid-area:main;
     background-color: #00FFFF;
-    height: 50%;
+    height: 150px;
 }
 
 .aside{
     grid-area:aside;
-    height: 50%;
     background-color: #7FFFD4;
 }
 
 .footer{
-    height: 50%;
     grid-area:footer;
     background-color: #FFE4C4;
 
